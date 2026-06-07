@@ -1,0 +1,4 @@
+# Ignore everything in release
+release/*
+# except
+!release/*.cmd

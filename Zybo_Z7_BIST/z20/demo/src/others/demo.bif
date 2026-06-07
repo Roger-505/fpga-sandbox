@@ -1,0 +1,7 @@
+the_ROM_image:
+{
+	[bootloader].\fsbl\Release\fsbl.elf
+    .\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	.\demo\Release\demo.elf
+	[load = 0x1FE22000]..\..\..\packet\morning_mood.raw
+}

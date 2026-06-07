@@ -1,0 +1,6 @@
+IP Core:
+    dvi2rgb_v1_2
+    rgb2dvi_v1_0
+
+Interface:
+    tmds_v1_0
