@@ -22,3 +22,6 @@ source create_project.tcl
 
 You will see the Vivado project get generated. The Xilinx SDK source code is also included in
 Zybo_Z7_BIST/z10/demo/sdk (or Zybo_Z7_BIST/z20/demo/sdk).
+
+See how to use Digilent Github Demo Projects here:
+https://digilent.com/reference/learn/programmable-logic/tutorials/github-demos/start?_gl=1*1bifvs0*_gcl_au*MTk5NjM3MTg3My4xNzgwMTY2MjM4*_ga*NTEyNDM5MDcuMTc4MDE2NjIzOA..*_ga_35QL6YVFN1*czE3ODA4NDc0MjkkbzMkZzEkdDE3ODA4NjM4NjQkajYwJGwwJGgxNjkyMjE2MTAx
