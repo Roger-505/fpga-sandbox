@@ -1,0 +1,3 @@
+[submodule "Zybo-Z7-PetaLinux"]
+	path = Zybo-Z7-PetaLinux
+	url = https://github.com/Digilent/Zybo-Z7.git
